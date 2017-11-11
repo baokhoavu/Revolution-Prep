@@ -1,0 +1,18 @@
+### Coding Test
+
+Please create a webpage that displays a form with validation. Upon a valid submission, please replace the form or transition to a thank you message. The form does not need to submit any data to a server for this exercise.
+
+What are looking for your ability to create a page that aligns in design to the included style guide. We will also be reviewing your code for cleanliness. Please be creative and feel free to leverage javascript, html5, and/or css3 to make the form more dynamic and engaging.
+
+The form should require the following fields and validations:
+  - Name: string, maxlength 40 characters, only letters
+  - Email: string, maxlength 50 characters, only accept valid email format
+  - Grade: select dropdown with options below
+      * label: 2nd Grade   value: 2
+      * label: 3rd Grade   value: 3
+      * label: 4th Grade   value: 4
+      * label: 5th Grade   value: 5
+
+The thank you message should include text: 
+  Thank you! We will send you more information via email shortly.
+  
